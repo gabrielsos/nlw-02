@@ -40,9 +40,14 @@ function TeacherList() {
             options={[
               { value: 'Artes', label: 'Artes' },
               { value: 'Biologia', label: 'Biologia' },
-              { value: 'Química', label: 'Química' },
-              { value: 'Matemática', label: 'Matemática' },
+              { value: 'Educação Física', label: 'Educação Física' },
               { value: 'Física', label: 'Física' },
+              { value: 'Geografia', label: 'Geografia' },
+              { value: 'História', label: 'História' },
+              { value: 'Inglês', label: 'Inglês' },
+              { value: 'Matemática', label: 'Matemática' },
+              { value: 'Português', label: 'Português' },
+              { value: 'Química', label: 'Química' },
             ]}
           />
           <Select
